@@ -1,0 +1,1 @@
+<a href="/dashboard/customers">Go to Dashboard</a>
